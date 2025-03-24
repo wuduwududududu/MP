@@ -4,11 +4,11 @@ export * from './career'
 
 // personal info
 export const name = 'Doctor Chen'
-export const headline = 'Teacher at Shanghai Soong Ching Ling School.'
+export const headline = '我的个人网页.'
 export const introduction =
-  "Coucou Les Amis! My name is Doctor Chen. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020."
-export const email = 'tong.hu@scls-sh.org'
-export const githubUsername = 'derekhut'
+  "记录生活、学习"
+export const email = '1594488934@qq.com'
+export const githubUsername = 'DoctorChen'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
